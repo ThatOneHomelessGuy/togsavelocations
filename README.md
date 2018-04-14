@@ -27,6 +27,7 @@ Setup/save custom teleport locations for each map.
 </p>
 </details>
 
+
 Note: After changing the cvars in your cfg file, be sure to rcon the new values to the server so that they take effect immediately.
 
 ## Player Commands:
