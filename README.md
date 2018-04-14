@@ -19,8 +19,6 @@ Setup/save custom teleport locations for each map.
 <details><summary>Click to View CVars</summary>
 <p>
 
-* **tsl_version** - TOG Save Locations: Version
-
 * **tsl_flag_setnew** - Players with this flag will be able to create new teleport locations.
 
 * **tsl_flag_tp** - Players with this flag will be able to use the saved teleports.
@@ -35,23 +33,23 @@ Note: After changing the cvars in your cfg file, be sure to rcon the new values 
 <details><summary>Click to View Player Commands</summary>
 <p>
 
-* **sm_locs** - [No Description Provided]
+* **sm_locs** - Open Saved Locations menu. Access set by CVar: tsl_flag_tp
 
-* **sm_locations** - [No Description Provided]
+* **sm_locations** - Open Saved Locations menu. Access set by CVar: tsl_flag_tp
 
-* **sm_saves** - [No Description Provided]
+* **sm_saves** - Open Saved Locations menu. Access set by CVar: tsl_flag_tp
 
-* **sm_newsave** - [No Description Provided]
+* **sm_newsave** - Save new location. Access set by CVar: tsl_flag_setnew
 
-* **sm_createsave** - [No Description Provided]
+* **sm_createsave** - Save new location. Access set by CVar: tsl_flag_setnew
 
-* **sm_saveloc** - [No Description Provided]
+* **sm_saveloc** - Save new location. Access set by CVar: tsl_flag_setnew
 
-* **sm_reloadlocs** - [No Description Provided]
+* **sm_reloadlocs** - Reload locations from files. Access set by CVar: tsl_flag_setnew
 
-* **sm_getcoords** - [No Description Provided]
+* **sm_getcoords** - Get current coordinates.
 
-* **sm_coords** - [No Description Provided]
+* **sm_coords** - Get current coordinates.
 </p>
 </details>
 
