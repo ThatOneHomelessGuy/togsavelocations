@@ -54,17 +54,5 @@ Note: After changing the cvars in your cfg file, be sure to rcon the new values 
 </details>
 
 
-## _____SOME_SPOILER_TITLE_____:
-<details><summary>Click to Open Spoiler</summary>
-<p>
-<pre><code>
-_____STUFF_INSIDE_SPOILER_____
-</code></pre>
-</p>
-</details>
-
-
-
-
 
 ### Check out my plugin list: http://www.togcoding.com/togcoding/index.php
