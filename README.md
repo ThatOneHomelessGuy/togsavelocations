@@ -1,7 +1,7 @@
 # TOG Save Locations
 (togsavelocations)
 
-Setup/save custom teleport locations for each map.
+Setup/save custom teleport locations (with configurable access) for each map.
 
 * Configurable access flags (using the [TOG Flag System](https://www.togcoding.com/togcoding/index.php#TOGFlagSystem)) both for saving new locations and teleporting to saved locations.
 * Option to show glowing orbs at teleport locations.
