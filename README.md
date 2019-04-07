@@ -54,10 +54,4 @@ Note: After changing the cvars in your cfg file, be sure to rcon the new values 
 </p>
 </details>
 
-
-<<<<<<< HEAD
-
-=======
->>>>>>> a9bd61908cab2372c9ff83ac7bac1826276127e8
-
 ### Check out my plugin list: http://www.togcoding.com/togcoding/index.php
